@@ -106,8 +106,7 @@ Thus found the PEAS description for the given AI problem and develop an AI agent
 
 ```
 
-# Output:
-<img width="377" height="487" alt="image" src="https://github.com/user-attachments/assets/620a9cc2-95e3-483d-9dbf-fbe08d37acb8" />
+
 
 # Result:
 Thus found the PEAS description for the given AI problem and develop an AI agent.
