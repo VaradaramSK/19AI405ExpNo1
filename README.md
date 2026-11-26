@@ -104,7 +104,6 @@ agent.run()
 # Result:
 Thus found the PEAS description for the given AI problem and develop an AI agent.
 
-```
 
 
 
